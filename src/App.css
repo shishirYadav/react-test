@@ -1,0 +1,17 @@
+.card-deck {
+  margin-left: 10px; 
+}
+
+
+.header {
+  background: #343a40;
+  text-align: center;
+  color: whitesmoke;
+  margin: 0px;
+}
+
+.header h1 {
+  margin: 0px;
+  padding: 20px;
+  margin-bottom: 50px;
+}
